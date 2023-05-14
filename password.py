@@ -8,7 +8,6 @@ ch = r'C:\Users\T_xOx_T\Desktop\git_test'
 ch = walk(ch)
 
 for chemin,rep,fic in ch:break
-# fic = fic[0]
 
 def password():return ''.join(choices(ascii_letters,k=randint(5,9)))
 
