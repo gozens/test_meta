@@ -55,8 +55,8 @@ button{
 }
 
 footer .copy{
-    position: absolute;
-    bottom: 0px;
+    /* position: absolute;
+    bottom: 0px; */
     text-align: center;
     width: 100%;
     background-color: #1f1818;
